@@ -1,4 +1,4 @@
-**Developer 💻 | Sports Enthusiast 🏋️‍♂️ | Food Lover 🍔**
+Developer 💻 | Sports Enthusiast 🏋️‍♂️ | Food Lover 🍔
 
 ## 🚀 Ce que je fais
 
@@ -40,16 +40,16 @@ const stack = {
 
 **DansLeMeal**
 
-*Planificateur de repas intelligent. J'ai déployé une landing page de pré-commande avec paiement Stripe pour valider l'intérêt du marché avant de lancer le développement de l'application native.*
+Planificateur de repas intelligent. J'ai déployé une landing page de pré-commande avec paiement Stripe pour valider l'intérêt du marché avant de lancer le développement de l'application native.
 
 **SportSpots**
 
-*Application mobile pour connecter les sportifs entre eux, parce que sans club on rate chaque jour une occasion de faire du sport.*
+Application mobile pour connecter les sportifs entre eux, parce que sans club on rate chaque jour une occasion de faire du sport.
 
 
 ## 👨‍💻 Pourquoi travailler avec moi ?
 
-*Je ne suis pas juste un exécutant, je suis un Product Builder. Je développe mes propres projets depuis plusieurs années, je connais les enjeux critiques d'un projet et chaque étape pour mener à bout l'idée vers le succès.*
+Je ne suis pas juste un exécutant, je suis un Product Builder. Je développe mes propres projets depuis plusieurs années, je connais les enjeux critiques d'un projet et chaque étape pour mener à bout l'idée vers le succès.
 
 ## Contact :
 
